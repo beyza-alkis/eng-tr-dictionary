@@ -74,6 +74,7 @@ dictionary = {
               "car"             : "Araba",
               "carbon Dioxide"  : "Karbondioksit",
               "carbon Monoxide" : "Karbonmonoksit",
+              "commit"          : "Yorum",
                   
               "dad"             : "Baba",
               "daily"           : "Günlük",
